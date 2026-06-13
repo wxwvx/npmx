@@ -2,6 +2,8 @@
 
 Interactive npm script runner for Zsh. Lists scripts from `package.json` and runs the one you pick with [fzf](https://github.com/junegunn/fzf).
 
+<img width="800" height="383" alt="demo" src="https://github.com/user-attachments/assets/38c1fd06-6aa8-4b58-807d-ad201ba9a13c" />
+
 ## Requirements
 
 - Zsh
